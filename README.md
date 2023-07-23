@@ -3,7 +3,7 @@
 <h2>👨‍💻 DevOps Projects:</h2>
 
 - <b>CI/CD Using Public Cloud Services </b>
-  - [Jenkins CI/CD pipeline with GitHub webhook integration for Deploying Docker application on EC2 instances using the declarative pipeline.](https://github.com/Balthazar234/Project_1/blob/main/README.md)
+  - [Project_1](https://github.com/Balthazar234/Project_1/blob/main/README.md)
 
 <h2>🏅 Certifications</h2>
 
