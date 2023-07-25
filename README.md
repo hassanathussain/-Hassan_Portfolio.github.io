@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 DevOps Projects:</h2>
 
+- <b>Multi Tier Web Application Stack Setup Locally(VM) </b>
+  - [Project_](https://github.com/Balthazar234/Project_1/blob/main/README.md)
+
+
 - <b>CI/CD Using Public Cloud Services </b>
   - [Project_1](https://github.com/Balthazar234/Project_1/blob/main/README.md)
 
