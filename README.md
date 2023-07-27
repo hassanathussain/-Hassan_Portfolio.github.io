@@ -8,7 +8,8 @@
 
 - <b>CI/CD Using Public Cloud Services </b>
   - [Project_1](https://github.com/Balthazar234/Project_1/blob/main/README.md)
-
+  - [Project_2](https://github.com/Balthazar234/Project_3/blob/main/README.md)
+    
 <h2>🏅 Certifications</h2>
 
 <h2> 🤳 Connect with me:</h2>
