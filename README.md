@@ -4,6 +4,7 @@
 
 - <b>Multi Tier Web Application Stack Setup Locally(VM) </b>
   - [Project_1](https://github.com/Balthazar234/Project_2/blob/main/README.md)
+  - [Project_1](https://github.com/Balthazar234/web_appDocker_Swarm/blob/main/README.md)
 
 - <b>Monitoring Project(Grafana) </b>
   - [Project_1](https://github.com/Balthazar234/Monitoring_1/blob/main/README.md)
