@@ -15,6 +15,7 @@
     
 - <b><h2>🏅 Certifications</h2> </b>
   - [AWS Cloud](https://www.credly.com/badges/aec3f5e8-41b5-4a4b-85d0-e94f4cf728ed)
+  - [Cloud 101](https://www.credly.com/earner/earned/badge/7eb9e9d0-4cef-4970-b101-cb6fc0de3ecb)
   
 <h2> 🤳 Connect with me:</h2>
 
