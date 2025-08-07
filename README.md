@@ -37,15 +37,15 @@ Welcome to my DevOps experiments space. Here's a collection of real-world projec
 
 ## 🏅 Certifications & Badges
 
-- [AWS Cloud Practitioner](https://www.credly.com/badges/aec3f5e8-41b5-4a4b-85d0-e94f4cf728ed)
-- [Cloud 101](https://www.credly.com/earner/earned/badge/7eb9e9d0-4cef-4970-b101-cb6fc0de3ecb)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/63f29613-8fb8-4ead-a55a-cdf9c6e98d9c/public_url)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/408775bc-cb51-4048-b15b-53fcc6bbb696/public_url)
+- [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/ac061f78-be2c-4ece-ba8a-3f624f6c8606/public_url)
 
 ---
 
 ## 📝 My Blog
 
-I write about DevOps, cloud, and breaking things smartly.
-
+I write about DevOps, cloud, and breaking things smartly.  
 ▶️ [@Hhussain on Hashnode](https://hashnode.com/@Hhussain)
 
 ---
