@@ -1,10 +1,29 @@
-# 🧪 Hassanat's DevOps Lab
+# 👋 Hey, I'm Hassanat Hussain
 
-Welcome to my DevOps experiments space. Here's a collection of real-world projects I've built, broken, and improved — all focused on learning through doing.
+I'm a DevOps engineer who learns by building, breaking, and fixing real-world systems.  
+Currently deep into the cloud, infrastructure-as-code, and automating everything that moves.
 
 ---
 
-## 🚀 Projects
+## 👀 What I'm into
+
+- Building secure, scalable infrastructure using AWS, Terraform, and Ansible
+- Making CI/CD pipelines cleaner and faster
+- Monitoring systems like a paranoid SRE (Grafana/Prometheus/CloudTrail)
+- Learning in public and documenting the messy, real parts
+- Helping others who are just getting into DevOps figure it out faster than I did
+
+---
+
+## 🌱 What I'm working on
+
+- Refreshing my portfolio and pushing projects to GitHub
+- Writing a blog post on Terraform + IAM + CloudTrail mistakes
+- Practicing Dragon Flags (because why not train core and code together?)
+
+---
+
+## 🚀 My Projects
 
 ### Multi-Tier Web App Setup (Local VM)
 - [Manual Configuration](https://github.com/Balthazar234/Project_2)
@@ -35,7 +54,7 @@ Welcome to my DevOps experiments space. Here's a collection of real-world projec
 
 ---
 
-## 🏅 Certifications & Badges
+## 🏅 Certifications
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/63f29613-8fb8-4ead-a55a-cdf9c6e98d9c/public_url)
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/408775bc-cb51-4048-b15b-53fcc6bbb696/public_url)
@@ -43,13 +62,13 @@ Welcome to my DevOps experiments space. Here's a collection of real-world projec
 
 ---
 
-## 📝 My Blog
+## ✍️ Writing
 
-I write about DevOps, cloud, and breaking things smartly.  
-▶️ [@Hhussain on Hashnode](https://hashnode.com/@Hhussain)
+I write about DevOps, cloud infra, and the kind of mistakes you'll never forget.  
+📝 [Check out my blog on Hashnode → @Hhussain](https://hashnode.com/@Hhussain)
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hassan-hussain-31597421b/)
